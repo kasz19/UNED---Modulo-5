@@ -1,0 +1,5773 @@
+------------- FUNCION GLOBAL - Term frequency–Inverse document frequency -------
+
+
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : claud
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : tenni
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : ajax
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : uncertain
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : championship
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : curv
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : rank
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : zealand
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : recent
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : despit
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : apr
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : sure
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : remain
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : mclaren
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : night
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : ferrari
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : semifin
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : am
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : cours
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : warren
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : lion
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : finalist
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : lewi
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : southampton
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : madrid
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : gunner
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : drive
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : ditalia
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : cup
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : thriller
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : result
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : traor
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : how
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : search
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : golf
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : domin
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : ian
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : celebr
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : fernando
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : honour
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : set
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : jose
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : team
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : union
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : balanc
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : tour
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : closer
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : straight
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : watch
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : cricket
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : sunderland
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : obrien
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : fourth
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : sweet
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : paul
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : interview
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : lingfield
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : stoke
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : tv
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : london
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : monei
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : prix
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : alonso
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : stroll
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : sublim
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : manchest
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : fantasi
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : late
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : white
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : hugh
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : advertis
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : owen
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : cairnei
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : solut
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : giro
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : take
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : extract
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : ey
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : aliv
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : clermont
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : final
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : fa
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : burst
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : riyad
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : vaughan
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : shop
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : ensur
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : nadal
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : video
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : hart
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : miss
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : shot
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : vijai
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : admit
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : journei
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : rate
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : leagu
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : root
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : combin
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : exclus
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : sir
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : liew
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : class
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : moeen
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : choic
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : spanish
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : race
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : djokov
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : start
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : bournemouth
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : kept
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : grand
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : michael
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : hayward
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : chang
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : victori
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : formula
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : comment
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : time
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : bid
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : mark
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : xv
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : downward
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : crowd
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : challeng
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : reach
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : arsen
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : channel
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : jonathan
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : galleri
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : america
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : plai
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : middlesbrough
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : llorent
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : reveng
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : william
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : ashton
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : season
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : swansea
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : equalis
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : backtoback
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : africa
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : leicest
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : playoff
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : surviv
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : mcgeechan
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : winner
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : driver
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : seventh
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : penalti
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : futur
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : singh
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : champion
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : women
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : chelsea
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : tabl
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : bertrand
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : log
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : south
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : fulham
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : retain
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : irish
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : bright
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : saracen
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : eddi
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : ruthless
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : remind
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : premium
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : birmingham
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : tom
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : top
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : bizarr
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : joshua
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : puel
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : mahrez
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : leav
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : stand
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : rafael
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : mar
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : reward
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : editor
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : bubbl
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : subscrib
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : facebook
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : premier
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : comfort
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : stink
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : wrong
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : opinion
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : help
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : naughton
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : cycl
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : chri
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : shone
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : citi
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : gatland
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : hull
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : reveal
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : pole
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : hamilton
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : trial
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : disast
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : beat
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : host
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : west
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : sarri
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : titl
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : ali
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : new
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : england
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : burnlei
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : read
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : king
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : footbal
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : format
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : derbi
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : rainbow
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : rugbi
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : farrel
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : visitor
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : heat
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : joe
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : sponsor
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : flyhalf
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : busi
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : seal
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : continu
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : box
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : telegraph
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : limp
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : fixtur
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : win
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : batsman
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : sam
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : gazza
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : lane
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : fight
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : player
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : recordbreak
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : aidan
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : move
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : scyld
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : embark
+WEIGHT: 0.000696019715172
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : follow
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : improv
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : merced
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : qualifi
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : round
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : wallac
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : mourinho
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : front
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : sport
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : pm
+WEIGHT: 0.000348007471980
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : novak
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.telegraph.co.uk/sport/
+WORD : account
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : german
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : dee
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : indianapoli
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : romelu
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : tenni
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : complet
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : ban
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : score
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : claus
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : pick
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : barcelona
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : barri
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : salazar
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : angri
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : ran
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : despit
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : antonio
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : pass
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : ag
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : shock
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : stade
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : lion
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : former
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : aaron
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : left
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : wing
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : mirror
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : deal
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : ahead
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : advertori
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : hot
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : polici
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : term
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : celebr
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : saddl
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : close
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : fernando
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : starlet
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : set
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : pinterest
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : straight
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : weird
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : fly
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : blue
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : meet
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : fighter
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : interview
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : chalmer
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : nine
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : longterm
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : incid
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : london
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : correct
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : coric
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : forc
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : alonso
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : lowerybradlei
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : bradlei
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : releg
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : parti
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : hold
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : red
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : bet
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : won
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : contact
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : club
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : pai
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : finish
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : tip
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : talk
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : georg
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : train
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : tribut
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : canelo
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : emot
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : mcgregor
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : owen
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : pose
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : european
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : lukaku
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : carri
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : insist
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : complain
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : gone
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : substanc
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : take
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : month
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : ey
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : freddi
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : success
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : murrai
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : final
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : fa
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : fc
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : princ
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : session
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : clash
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : univers
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : miss
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : rate
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : exclus
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : accid
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : ballon
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : live
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : battl
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : spanish
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : six
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : ticket
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : unionsaracen
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : dalla
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : tweet
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : grand
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : home
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : michael
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : special
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : condit
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : agre
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : victori
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : beach
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : spectacular
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : francai
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : bid
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : gremio
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : career
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : challeng
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : hope
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : ski
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : swansea
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : action
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : stadium
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : pitch
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : join
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : french
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : song
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : defo
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : manag
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : decid
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : spaniard
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : winner
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : driver
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : million
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : even
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : spot
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : john
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : aberdeen
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : champion
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : nevil
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : chelsea
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : wait
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : britain
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : singer
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : dor
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : saracen
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : jonni
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : believ
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : summer
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : local
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : remind
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : saul
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : pictur
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : world
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : top
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : mai
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : joshua
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : loyalti
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : speak
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : andi
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : frenet
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : question
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : forward
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : premier
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : ronaldo
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : ascotwhen
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : chri
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : hacker
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : citi
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : la
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : vettel
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : report
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : stuart
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : royal
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : return
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : bowler
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : inyourarea
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : wwe
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : receiv
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : sign
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : feel
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : hamilton
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : trial
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : spur
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : mayweath
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : son
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : biggest
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : morgan
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : west
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : host
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : limit
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : claim
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : plenti
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : ascot
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : favourit
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : new
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : read
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : subscript
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : eden
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : rout
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : survei
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : tri
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : real
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : film
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : unit
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : famou
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : chalmerswatch
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : dream
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : hors
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : updat
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : try
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : nh
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : watford
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : bodi
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : websit
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : bridg
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : busi
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : fridai
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : box
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : weve
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : schedul
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : torr
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : head
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : hour
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : fight
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : hear
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : conclus
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : cross
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : piqu
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : competit
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : qualifi
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : drill
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : buysel
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : super
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : stake
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : cyber
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : offici
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : mourinho
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : sport
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : walk
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : geordi
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : brom
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : reason
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : inform
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : ring
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : hospit
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : belgian
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : legend
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : krui
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : led
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : instagram
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : ajax
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : titlewin
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : concern
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : naiv
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : mgn
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : halifax
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : championship
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : english
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : lotteri
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : recent
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : night
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : murrayandi
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : torresliverpool
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : realiti
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : lewi
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : cupgloucest
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : privaci
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : madrid
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : fcchelsea
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : dunn
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : cup
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : minut
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : carrington
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : devil
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : alvarezvenu
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : trophi
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : prize
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : comeback
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : moment
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : announc
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : saturdai
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : poppi
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : attack
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : bouchard
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : defin
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : tottenham
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : hamiltonlewi
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : horror
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : intern
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : reaction
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : star
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : jose
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : polit
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : launch
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : team
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : tour
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : stori
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : confirm
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : call
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : midfield
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : googl
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : watch
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : tyson
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : cricket
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : obrien
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : sunderland
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : fashion
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : stai
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : fiveyearold
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : mcguigan
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : tv
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : everton
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : monei
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : prix
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : lie
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : run
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : prepar
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : arena
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : rum
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : salford
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : olymp
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : countri
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : technolog
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : manchest
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : white
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : late
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : uk
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : aguero
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : schumach
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : oppon
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : actual
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : town
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : quizz
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : parisian
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : look
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : fcliverpool
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : squad
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : celtic
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : clermont
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : nicola
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : stamford
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : name
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : vital
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : bolton
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : vs
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : support
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : mma
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : drop
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : heavyweight
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : bbbofc
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : father
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : sponsorship
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : sharapova
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : life
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : peopl
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : street
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : leagu
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : statement
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : koeman
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : twin
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : race
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : eurovis
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : alvarez
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : shore
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : start
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : target
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : jermain
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : short
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : formula
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : time
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : excit
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : mark
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : ireland
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : septemb
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : held
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : reach
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : arsen
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : fabrega
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : liverpool
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : plai
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : fan
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : twitter
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : road
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : moy
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : ashton
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : loweri
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : season
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : cont
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : plan
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : backtoback
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : profession
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : clinch
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : rigbi
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : sundai
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : actionpack
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : goal
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : russian
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : liga
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : antidop
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : contract
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : chester
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : come
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : tattoo
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : ongo
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : light
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : futur
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : happi
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : lift
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : care
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : love
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : conor
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : boss
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : luan
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : irish
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : weak
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : leak
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : impress
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : get
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : leav
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : eoin
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : europa
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : boro
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : sell
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : facebook
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : suggest
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : help
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : shirt
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : poundforpound
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : furi
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : unbeaten
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : harri
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : mcmahon
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : travel
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : date
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : dress
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : cooki
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : alleg
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : pole
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : dai
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : golovkin
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : hit
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : major
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : audi
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : submiss
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : beat
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : titl
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : portugues
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : england
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : spell
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : borna
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : adam
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : king
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : like
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : daili
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : footbal
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : ill
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : edg
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : bamma
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : transfer
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : rugbi
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : michi
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : ground
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : histori
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : job
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : joe
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : game
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : batshuayi
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : week
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : mum
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : maryan
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : celeb
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : deliv
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : captain
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : bike
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : debut
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : paper
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : teammat
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : car
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : messag
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : david
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : psychic
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : track
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : win
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : easi
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : player
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : aidan
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : move
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : match
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : leed
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : follow
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : spread
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : unlik
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : ufc
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : gennadi
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : round
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : third
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : gerard
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : clarif
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : visit
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : retir
+WEIGHT: 0.000370723214917
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : rival
+WEIGHT: 0.000185361607459
+-------------
+-------------
+DOCUMENT : http://www.mirror.co.uk/sport/
+WORD : novak
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : bring
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : tenni
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : rider
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : via
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : fit
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : crossword
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : score
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : music
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : record
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : absent
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : beasant
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : lloyd
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : happen
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : eclips
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : ipl
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : antonio
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : past
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : stade
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : secur
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : former
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : dose
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : ditalia
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : icon
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : polici
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : result
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : search
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : golf
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : domin
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : celebr
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : term
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : godolphin
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : close
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : hand
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : saint
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : set
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : sex
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : union
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : food
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : stage
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : meet
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : fighter
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : conveyor
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : die
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : eager
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : oldham
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : ladi
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : stun
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : good
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : releg
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : won
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : club
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : pai
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : finish
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : add
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : oyston
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : mcgregor
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : european
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : giroud
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : vision
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : wire
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : month
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : allround
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : success
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : final
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : activ
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : fa
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : compet
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : famili
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : content
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : laser
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : rate
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : allardyc
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : podcast
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : end
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : promot
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : spanish
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : furthest
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : six
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : relax
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : bournemouth
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : grand
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : home
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : crap
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : brillianc
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : form
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : interpret
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : victori
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : limbo
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : mcilroi
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : select
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : wagner
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : hope
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : overshadow
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : llorent
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : stadium
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : equalis
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : brave
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : flow
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : cormier
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : belt
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : kerr
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : manag
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : surviv
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : winner
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : experi
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : sawgrass
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : issu
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : champion
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : women
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : chelsea
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : crystal
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : weekend
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : saracen
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : eddi
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : eight
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : defeat
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : pictur
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : world
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : top
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : speak
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : mahrez
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : guardian
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : stand
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : rafael
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : columnist
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : break
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : strike
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : premier
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : excus
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : health
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : draw
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : intrigu
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : citi
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : slip
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : vettel
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : report
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : mbm
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : return
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : sign
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : obituari
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : motiv
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : hamilton
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : jone
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : trial
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : spur
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : radio
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : pochettino
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : new
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : todai
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : swan
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : eden
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : derbi
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : guardiola
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : rememb
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : real
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : film
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : tool
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : feed
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : dream
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : true
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : try
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : heat
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : busi
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : seal
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : box
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : media
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : leipzig
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : fiver
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : switch
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : head
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : design
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : ok
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : on
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : mitchel
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : control
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : super
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : sport
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : cultur
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : led
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : injuri
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : instagram
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : goalkeep
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : environ
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : factori
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : helen
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : password
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : len
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : fire
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : runner
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : edit
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : remain
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : australia
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : tiger
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : sebastian
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : rb
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : alex
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : sear
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : lewi
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : boost
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : madrid
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : cup
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : hussain
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : debat
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : scan
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : comeback
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : kei
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : monaco
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : moment
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : heckler
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : bouchard
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : tottenham
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : juventu
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : free
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : arm
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : email
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : st
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : art
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : triumph
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : intern
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : riot
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : amid
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : team
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : tour
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : stori
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : classic
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : kick
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : watch
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : cricket
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : obrien
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : assist
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : redmond
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : fashion
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : stoke
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : tv
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : monei
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : prix
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : run
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : gloucest
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : kevin
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : manchest
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : view
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : late
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : jamaica
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : uk
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : champ
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : tech
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : fifield
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : doubl
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : cairnei
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : develop
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : look
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : funni
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : giro
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : repres
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : aliv
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : reportedli
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : clermont
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : guid
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : vital
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : support
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : nadal
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : book
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : rule
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : video
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : sharapova
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : life
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : speed
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : defend
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : leagu
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : race
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : europ
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : djokov
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : bond
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : target
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : popup
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : chang
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : comment
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : rise
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : reach
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : safeti
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : arsen
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : liverpool
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : climb
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : plai
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : twitter
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : fan
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : review
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : season
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : catch
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : cont
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : tophalf
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : sundai
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : goal
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : leicest
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : sprinter
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : overhead
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : pressur
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : iran
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : playoff
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : toward
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : memori
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : penalti
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : happi
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : card
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : love
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : tabl
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : pant
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : fulham
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : cherri
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : birmingham
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : ghost
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : marciano
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : power
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : regular
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : disput
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : franai
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : lemar
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : subscrib
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : bigger
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : facebook
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : castleford
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : teambyteam
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : observ
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : lead
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : opinion
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : lifestyl
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : naughton
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : help
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : cycl
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : robl
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : struggl
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : depth
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : fellow
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : garden
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : travel
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : athlet
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : date
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : beal
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : dick
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : prefer
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : own
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : section
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : pole
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : eco
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : argentina
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : threaten
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : beat
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : titl
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : vinc
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : macpherson
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : england
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : burnlei
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : refere
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : profil
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : king
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : palac
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : daili
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : footbal
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : edg
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : basebal
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : rugbi
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : topic
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : ground
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : job
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : dont
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : wemblei
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : scienc
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : game
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : batshuayi
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : recip
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : joi
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : farewel
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : bayern
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : drama
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : paper
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : izagirr
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : blunder
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : win
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : player
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : match
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : topfour
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : follow
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : blackpool
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : ufc
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : third
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : mean
+WEIGHT: 0.000614055054824
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : unearth
+WEIGHT: 0.000307027527412
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : novak
+WEIGHT: 0E-15
+-------------
+-------------
+DOCUMENT : https://www.theguardian.com/uk/sport
+WORD : account
+WEIGHT: 0E-15
+-------------
